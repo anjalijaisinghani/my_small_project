@@ -8,7 +8,7 @@ A simple web project built using HTML, CSS, and JavaScript.
 
 Click the link below to view the live project:
 
-👉 [View Live](https://anjalijaisinghani.github.io/your-repo-name/)
+👉 [View Live](https://anjalijaisinghani.github.io/my_small_project/)
 
 
 
@@ -21,3 +21,5 @@ Click the link below to view the live project:
 ## 📄 License
 
 This project is open-source and free to use.
+
+## 😜 Created for fun only.....
